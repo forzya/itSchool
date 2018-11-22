@@ -3,8 +3,6 @@ unsigned int rightShift(unsigned int, unsigned int);
 
 int main()
 {
-	rightShift(123,3);
-	
 	return 0;
 }
 
